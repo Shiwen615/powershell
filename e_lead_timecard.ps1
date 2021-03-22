@@ -1,0 +1,2 @@
+New-BurntToastNotification -AppLogo C:\Users\ray.hsu\Desktop\Shiwen_Hsu\頭貼\幼幼基.jpg -Text "工時卡 !!!!!!" -Sound Alarm10
+& 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe' https://timecard.e-lead.com.tw/dashboard
